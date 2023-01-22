@@ -7,7 +7,7 @@
 
 ## In-Class Assignments
 
-##### - ICA1 (ojpollock.github.io/wa/wa1.html)
+##### - ICA1 <a href="ojpollock.github.io/wa/wa1.html"> ICA1 </a>
 ##### - ICA2
 ##### - ICA3
 ##### - ICA4
