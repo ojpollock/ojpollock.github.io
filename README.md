@@ -7,7 +7,7 @@
 
 ## In-Class Assignments
 
-##### - [ICA1](ojpollock.github.io/wa/wa1.html)
+##### - [ICA1](ojpollock.github.io)
 ##### - ICA2
 ##### - ICA3
 ##### - ICA4
@@ -25,7 +25,7 @@
 
 ## Weekly Assignments
 
-##### - WA1
+##### - [WA1](ojpollock.github.io/wa/wa1.html)
 ##### - WA2
 ##### - WA3
 ##### - WA4
