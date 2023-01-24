@@ -25,7 +25,7 @@
 
 ## Weekly Assignments
 
-##### - [WA1](ojpollock.github.io/wa/wa1.html)
+##### - [WA1](https://ojpollock.github.io/wa/wa1.html)
 ##### - WA2
 ##### - WA3
 ##### - WA4
