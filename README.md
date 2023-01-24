@@ -7,7 +7,7 @@
 
 ## In-Class Assignments
 
-##### - [ICA1](ojpollock.github.io/)
+##### - [ICA1](https://ojpollock.github.io/)
 ##### - ICA2
 ##### - ICA3
 ##### - ICA4
