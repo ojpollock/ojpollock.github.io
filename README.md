@@ -29,8 +29,8 @@
 ##### - [WA2](https://ojpollock.github.io/wa/wa2.html)
 ##### - [WA3](https://ojpollock.github.io/wa/wa3.html)
 ##### - [WA4](https://ojpollock.github.io/wa/wa4.html)
-##### - WA5
-##### - WA6
+##### - [WA5](https://ojpollock.github.io/wa/wa5.html)
+##### - [WA6](https://ojpollock.github.io/wa/wa6.html)
 ##### - WA7
 ##### - WA8
 ##### - WA9
