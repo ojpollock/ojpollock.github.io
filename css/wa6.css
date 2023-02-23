@@ -29,6 +29,8 @@ body {
   nav {
     background-color: #000;
     padding: .5em;
+    position:sticky;
+    top: 0px;
   }
   
   nav ul {
@@ -37,13 +39,14 @@ body {
     list-style: none;
     display: flex;
     justify-content: space-between;
+
   }
   
   nav a {
     color: #fff;
     text-decoration: none;
     padding: .5em 1em;
-    
+
   }
   
   .photos {
