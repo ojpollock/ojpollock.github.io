@@ -60,6 +60,8 @@ body {
       margin:10px;
   }
 
+
+  
   @media only screen and (max-width:500px){
     .grid{
        display:flex;
