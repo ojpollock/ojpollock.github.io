@@ -1,0 +1,51 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(23, 7, 255);
+    font-family: "Comic Sans MS" ;
+    animation-duration: 3s;
+    animation-name: allin;
+    animation-iteration-count: 1;
+}
+@keyframes allin{
+    from {
+        margin-left: 100%;
+  }
+}
+
+
+nav{
+    height: 50vh;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height:20px;
+    background-color: rgb(255, 0, 247);
+    transition: transform .7s ease-in-out;
+}
+nav a{
+    width:10vw;
+    text-align: center;
+    text-decoration: none;
+    color:black;
+}
+
+nav:hover{
+    transform: rotate(360deg);
+}
+
+img{
+    width:30vw;
+    height: 30vh;
+}
+
+#red-ball{
+    background-color: crimson;
+    width: 20px;
+    height:20px;
+    border-radius: 50%;
+    position: absolute;
+    left:5vw;
+    top:0;
+}
