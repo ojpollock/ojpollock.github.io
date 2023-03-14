@@ -15,7 +15,7 @@
 ##### - [ICA6](https://ojpollock.github.io/ica/ica6/ica6-part1.html)
 ##### - [ICA7](https://ojpollock.github.io/ica/ica7.html)
 ##### - ICA8
-##### - ICA9
+##### - [ICA9](https://ojpollock.github.io/ica/ica9.html)
 ##### - ICA10
 ##### - ICA11
 ##### - ICA12
@@ -31,7 +31,7 @@
 ##### - [WA4](https://ojpollock.github.io/wa/wa4.html)
 ##### - [WA5](https://ojpollock.github.io/wa/wa5.html)
 ##### - [WA6](https://ojpollock.github.io/wa/wa6.html)
-##### - WA7
+##### - [WA7](https://ojpollock.github.io/wa/WA7.html)
 ##### - WA8
 ##### - WA9
 ##### - WA10
