@@ -36,7 +36,7 @@
 ##### - WA9
 ##### - WA10
 ##### - WA11
-##### - WA12
+##### - [WA12](https://ojpollock.github.io/wa/wa12/wa12.html)
 ##### - WA13
 ##### - WA14
 ##### - WA15
