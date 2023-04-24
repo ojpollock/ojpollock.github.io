@@ -1,0 +1,23 @@
+
+
+html{
+    background-image: url(https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/blogs/21727/images/7ZcP5weuSm6M3lAp1FMH_soundwaves-1080x675.jpg) ;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.all {
+    position: flex;
+    justify-self: center;
+    justify-content: center;
+    margin:auto;
+    margin-top: 20%;
+    background-color: rgba(255, 255, 255, 0.547);
+    height: 100px;
+    width: 500px;
+    padding: 10px;
+ color: rgb(0, 0, 0);
+ text-align: center;
+}
