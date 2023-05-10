@@ -4,7 +4,9 @@ body{
     background-repeat: repeat-y;
     background-size: 100%;
 }
-
+h1{
+  color:#fff;
+}
 
 /* .intro{
   position: fixed;
@@ -319,6 +321,33 @@ object-fit: cover;
 .about a{
 
   color:#fff
+}
+
+#image-container{
+  background-color: #3b4161;
+  position: relative;
+  display: block;
+  height: 400px;
+margin:auto;
+justify-content: center;
+  width: 50%;
+  margin-top: 100px;
+}
+#randomize{
+  display: flex;
+  position: center;
+  margin: auto;
+  margin-top: 50px;
+}
+
+#finalhead{
+  display: flex;
+  position: center;
+  margin: auto;
+  padding: 30px;
+  justify-content: center;
+
+
 }
 
 @media only screen and (max-width:700px){
