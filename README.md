@@ -1,9 +1,9 @@
 # ojpollock.github.io
 
 ## Projects
-##### - HTML
-##### - CSS
-##### - JS
+##### - [HTML](https://oliverpollock.me/html-midterm/page1.html)
+##### - [CSS](https://oliverpollock.me)
+##### - [JS](https://oliverpollock.me/Final/Final.html)
 
 ## In-Class Assignments
 
