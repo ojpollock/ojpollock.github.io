@@ -16,12 +16,9 @@
 ##### - [ICA7](https://ojpollock.github.io/ica/ica7.html)
 ##### - ICA8
 ##### - [ICA9](https://ojpollock.github.io/ica/ica9.html)
-##### - ICA10
+##### - [ICA10](https://ojpollock.github.io/ica/ica10.html)
 ##### - [ICA11](https://ojpollock.github.io/ica/ica11.html)
-##### - ICA12
-##### - ICA13
-##### - ICA14
-##### - ICA15
+##### - I[ICA12](https://ojpollock.github.io/ica/icac12/ica12.html)
 
 ## Weekly Assignments
 
@@ -32,11 +29,9 @@
 ##### - [WA5](https://ojpollock.github.io/wa/wa5.html)
 ##### - [WA6](https://ojpollock.github.io/wa/wa6.html)
 ##### - [WA7](https://ojpollock.github.io/wa/WA7.html)
-##### - WA8
-##### - WA9
-##### - WA10
-##### - WA11
+##### - [WA9](https://ojpollock.github.io/wa/WA9.html)
+##### - [WA10](ojpollock.github.io/wa/wa10/index.htm)
+##### - [WA11](ojpollock.github.io/wa/wa10/wa10.htm)
 ##### - [WA12](https://ojpollock.github.io/wa/wa12/wa12.html)
-##### - WA13
-##### - WA14
-##### - WA15
+##### - [WA13](ojpollock.github.io/wa/wa13/wa13.htm)
+
