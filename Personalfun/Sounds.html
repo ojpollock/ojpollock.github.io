@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Year Sound Prompt</title>
+</head>
+<body>
+
+<div class="space">
+
+</div>
+
+  <div class="display">
+    <label for="yearInput">Enter a year (2000-2022): </label>
+    <input type="text" id="yearInput" placeholder="Enter a year (2000-2022)">
+    <button id="playYearSoundButton">Play Sound</button>
+  </div>
+
+  <audio id="sound2000_2004" src="pennysounds/00-05.mp3"></audio>
+  <audio id="sound2005_2009" src="pennysounds/05-09.mp3"></audio>
+  <audio id="sound2010_2014" src="pennysounds/10-14.mp3"></audio>
+  <audio id="sound2015_2019" src="pennysounds/15-19.mp3"></audio>
+  <audio id="sound2020_2022" src="pennysounds/20-22.mp3"></audio>
+
+  <style>
+
+    
+
+   html{
+        margin: 0px;
+height: 100%;
+        background-image: url(https://media.tenor.com/2WEdoL4ppm4AAAAC/falling-pennies.gif);
+        color:white;
+    }
+
+    .display {
+        display: flex;
+        width: 50%;
+        padding: 10px;
+        margin: auto;
+        align-items:center;
+        justify-content:space-between;
+        background-color: #cf5f04;
+        
+    }
+.space{
+    padding:  11% ;
+}
+  </style>
+
+  <script>
+    document.getElementById("playYearSoundButton").addEventListener("click", playYearSound);
+
+    function playYearSound() {
+      const yearInput = document.getElementById("yearInput").value;
+      const year = parseInt(yearInput);
+
+      if (!isNaN(year) && year >= 2000 && year <= 2022) {
+        let soundId;
+
+        if (year >= 2000 && year <= 2004) {
+          soundId = "sound2000_2004";
+        } else if (year >= 2005 && year <= 2009) {
+          soundId = "sound2005_2009";
+        } else if (year >= 2010 && year <= 2014) {
+          soundId = "sound2010_2014";
+        } else if (year >= 2015 && year <= 2019) {
+          soundId = "sound2015_2019";
+        } else {
+          soundId = "sound2020_2022";
+        }
+
+        const sound = document.getElementById(soundId);
+        sound.currentTime = 0;
+        sound.play();
+      } else {
+        alert("Invalid input. Please enter a year between 2000 and 2022.");
+      }
+    }
+  </script>
+</body>
+</html>
