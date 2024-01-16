@@ -32,13 +32,13 @@
   <button onclick="randomize()">Randomize</button>
 
   <script>
-    const images = ["/AboutmeIMG/aboutme1.jpg", "/Image/OLDMAIN-37.jpg", "/Image/OLDMAIN-69.jpg", "/Image/OLDMAIN-71.jpg", "/Image/OLDMAIN-72.jpg", "/Image/OLDMAIN-79.jpg"];
+    const images = ["/AboutmeIMG/aboutme1.jpeg", "/AboutmeIMG/aboutme2.jpeg", "/AboutmeIMG/aboutme3.jpg", "/AboutmeIMG/aboutme3.jpg", "/AboutmeIMG/aboutme4.jpg", "/AboutmeIMG/aboutme5.jpg", "/AboutmeIMG/aboutme6.jpg", "/AboutmeIMG/aboutme7.jpg", "/AboutmeIMG/aboutme8.jpg", "/AboutmeIMG/aboutme9.jpg", "/AboutmeIMG/aboutme10.jeg", "/AboutmeIMG/aboutme11.jpg", "/AboutmeIMG/aboutme12.jpg"];
 
     // Function to set an initial image on page load
     function setInitialImage() {
       const container = document.getElementById("image-container");
       container.innerHTML = "";
-      const initialImg = "/AboutmeIMG/aboutme1.jpg"; // Change this to the desired initial image
+      const initialImg = "/AboutmeIMG/aboutme1.jpeg"; // Change this to the desired initial image
       const blendMode = getBlendMode();
       const imageContainer = createImageContainer();
       const image = createImageElement(initialImg, blendMode);
