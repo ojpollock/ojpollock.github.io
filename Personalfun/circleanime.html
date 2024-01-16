@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+        }
+
+        .circle {
+            background-color: #3498db;
+            border-radius: 50%;
+            position: absolute;
+            animation: fall 2s linear forwards;
+        }
+
+        @keyframes fall {
+            to {
+                transform: translateY(calc(100vh - var(--radius, 20px)));
+            }
+        }
+    </style>
+    <title>Gravity Circles</title>
+</head>
+<body>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const numberOfCircles = 5;
+
+            for (let i = 0; i < numberOfCircles; i++) {
+                createCircle();
+            }
+
+            function createCircle() {
+                const circle = document.createElement('div');
+                circle.className = 'circle';
+                const radius = Math.random() * 20 + 10; // Random radius between 10 and 30
+                circle.style.width = `${radius * 2}px`;
+                circle.style.height = `${radius * 2}px`;
+                circle.style.left = `${Math.random() * (window.innerWidth - radius * 2)}px`;
+
+                // Set a custom property to store the radius for use in CSS animation
+                circle.style.setProperty('--radius', `${radius}px`);
+
+                document.body.appendChild(circle);
+            }
+        });
+    </script>
+</body>
+</html>
